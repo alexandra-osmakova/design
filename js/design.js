@@ -17,7 +17,7 @@ var slider = tns({
     gutter: 5,
     nav: false,
     responsive: {
-        300: {
+        320: {
             items: 4
         },
         500: {
